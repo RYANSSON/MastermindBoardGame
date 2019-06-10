@@ -1,0 +1,54 @@
+D:/c#/MASTERMIND/MASTERMIND/bin/Debug/MASTERMIND.exe.config
+D:/c#/MASTERMIND/MASTERMIND/bin/Debug/MASTERMIND.exe
+D:/c#/MASTERMIND/MASTERMIND/bin/Debug/MASTERMIND.pdb
+D:/c#/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.Properties.Resources.resources
+D:/c#/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.csproj.GenerateResource.Cache
+D:/c#/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.csproj.CoreCompileInputs.cache
+D:/c#/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.exe
+D:/c#/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.pdb
+D:/c#/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.csprojResolveAssemblyReference.cache
+D:/c#/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.frmMASTERMIND.resources
+C:/Users/Ryan Johnson/Desktop/MASTERMIND/MASTERMIND/bin/Debug/MASTERMIND.exe.config
+C:/Users/Ryan Johnson/Desktop/MASTERMIND/MASTERMIND/bin/Debug/MASTERMIND.exe
+C:/Users/Ryan Johnson/Desktop/MASTERMIND/MASTERMIND/bin/Debug/MASTERMIND.pdb
+C:/Users/Ryan Johnson/Desktop/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.csprojResolveAssemblyReference.cache
+C:/Users/Ryan Johnson/Desktop/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.frmMASTERMIND.resources
+C:/Users/Ryan Johnson/Desktop/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.Properties.Resources.resources
+C:/Users/Ryan Johnson/Desktop/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.csproj.GenerateResource.Cache
+C:/Users/Ryan Johnson/Desktop/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.exe
+C:/Users/Ryan Johnson/Desktop/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.pdb
+C:/Users/Ryan Johnson/Desktop/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.csproj.CoreCompileInputs.cache
+D:/c#/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.frmMASTERMIND.aa.resources
+D:/c#/MASTERMIND/MASTERMIND/bin/Debug/aa/MASTERMIND.resources.dll
+D:/c#/MASTERMIND/MASTERMIND/obj/Debug/aa/MASTERMIND.resources.dll
+//Mac/Home/Desktop/MASTERMIND ver9/MASTERMIND/MASTERMIND/bin/Debug/MASTERMIND.exe.config
+//Mac/Home/Desktop/MASTERMIND ver9/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.exe
+//Mac/Home/Desktop/MASTERMIND ver9/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.pdb
+//Mac/Home/Desktop/MASTERMIND ver9/MASTERMIND/MASTERMIND/bin/Debug/MASTERMIND.exe
+//Mac/Home/Desktop/MASTERMIND ver9/MASTERMIND/MASTERMIND/bin/Debug/MASTERMIND.pdb
+//Mac/Home/Desktop/MASTERMIND ver9/MASTERMIND/MASTERMIND/bin/Debug/aa/MASTERMIND.resources.dll
+//Mac/Home/Desktop/MASTERMIND ver9/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.csprojResolveAssemblyReference.cache
+//Mac/Home/Desktop/MASTERMIND ver9/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.frmMASTERMIND.resources
+//Mac/Home/Desktop/MASTERMIND ver9/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.Properties.Resources.resources
+//Mac/Home/Desktop/MASTERMIND ver9/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.frmMASTERMIND.aa.resources
+//Mac/Home/Desktop/MASTERMIND ver9/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.csproj.GenerateResource.Cache
+//Mac/Home/Desktop/MASTERMIND ver9/MASTERMIND/MASTERMIND/obj/Debug/aa/MASTERMIND.resources.dll
+//Mac/Home/Desktop/MASTERMIND Final version/MASTERMIND/MASTERMIND/bin/Debug/MASTERMIND.exe.config
+//Mac/Home/Desktop/MASTERMIND Final version/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.exe
+//Mac/Home/Desktop/MASTERMIND Final version/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.pdb
+/Users/Ryan/Downloads/MASTERMIND Final version/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.csprojAssemblyReference.cache
+/Users/Ryan/Downloads/MASTERMIND Final version/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.exe
+/Users/Ryan/Downloads/MASTERMIND Final version/MASTERMIND/MASTERMIND/obj/Debug/MASTERMIND.pdb
+D:\MASTERMIND Final version\MASTERMIND\MASTERMIND\bin\Debug\MASTERMIND.exe.config
+D:\MASTERMIND Final version\MASTERMIND\MASTERMIND\bin\Debug\MASTERMIND.exe
+D:\MASTERMIND Final version\MASTERMIND\MASTERMIND\bin\Debug\MASTERMIND.pdb
+D:\MASTERMIND Final version\MASTERMIND\MASTERMIND\bin\Debug\aa\MASTERMIND.resources.dll
+D:\MASTERMIND Final version\MASTERMIND\MASTERMIND\obj\Debug\MASTERMIND.csprojAssemblyReference.cache
+D:\MASTERMIND Final version\MASTERMIND\MASTERMIND\obj\Debug\MASTERMIND.frmMASTERMIND.resources
+D:\MASTERMIND Final version\MASTERMIND\MASTERMIND\obj\Debug\MASTERMIND.Properties.Resources.resources
+D:\MASTERMIND Final version\MASTERMIND\MASTERMIND\obj\Debug\MASTERMIND.frmMASTERMIND.aa.resources
+D:\MASTERMIND Final version\MASTERMIND\MASTERMIND\obj\Debug\MASTERMIND.csproj.GenerateResource.cache
+D:\MASTERMIND Final version\MASTERMIND\MASTERMIND\obj\Debug\MASTERMIND.csproj.CoreCompileInputs.cache
+D:\MASTERMIND Final version\MASTERMIND\MASTERMIND\obj\Debug\aa\MASTERMIND.resources.dll
+D:\MASTERMIND Final version\MASTERMIND\MASTERMIND\obj\Debug\MASTERMIND.exe
+D:\MASTERMIND Final version\MASTERMIND\MASTERMIND\obj\Debug\MASTERMIND.pdb
